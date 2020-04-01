@@ -1,0 +1,23 @@
+package com.luv2code.springdemo;
+
+public class CricketCoach implements Coach {
+
+	@Override
+	public String getDailyWorkout() {
+		// TODO Auto-generated method stub
+		return "practice fast bowling for 15 minutes";
+	}
+
+	@Override
+	public String getRepsNumber() {
+		// TODO Auto-generated method stub
+		return "hey ho";
+	}
+
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

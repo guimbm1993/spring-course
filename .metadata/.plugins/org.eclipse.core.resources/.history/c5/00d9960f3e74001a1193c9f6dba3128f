@@ -1,0 +1,23 @@
+package com.luv2code.springdemo;
+
+public class PingPongCoach implements Coach {
+
+	@Override
+	public String getDailyWorkout() {
+		// TODO Auto-generated method stub
+		return "25 aces";
+	}
+
+	@Override
+	public String getRepsNumber() {
+		// TODO Auto-generated method stub
+		return "make it 10 times";
+	}
+
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return "";
+	}
+
+}
