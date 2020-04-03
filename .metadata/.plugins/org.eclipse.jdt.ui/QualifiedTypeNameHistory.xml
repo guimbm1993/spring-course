@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.luv2code.springdemo.BaseballCoach"/>
-    <fullyQualifiedTypeName name="com.luv2code.springdemo.Coach"/>
     <fullyQualifiedTypeName name="com.luv2code.springdemo.FortuneService"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="com.luv2code.springdemo.CricketCoach"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="com.luv2code.springdemo.PingPongCoach"/>
+    <fullyQualifiedTypeName name="com.luv2code.springdemo.FileFortuneService"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.luv2code.springdemo.Coach"/>
 </qualifiedTypeNameHistroy>
