@@ -5,20 +5,19 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component
-public class SoccerCoach implements Coach {
-	
-	//setter injection
+public class KarateCoach implements Coach {
 
+	//field injection
+	
+	@Autowired
+	@Qualifier("randomFortuneService")
 	private FortuneService fortuneService;
 	
-	public SoccerCoach() {
-		System.out.println("inside de default constructor");
-	}
 	
 	@Override
 	public String getDailyWorkout() {
 		// TODO Auto-generated method stub
-		return "shoot ten times";
+		return "Practice punchs";
 	}
 
 	@Override
@@ -26,13 +25,5 @@ public class SoccerCoach implements Coach {
 		// TODO Auto-generated method stub
 		return fortuneService.getFortune();
 	}
-
-	@Autowired
-	@Qualifier("happyFortuneService")
-	public void setFortuneService(FortuneService fortuneService) {
-		this.fortuneService = fortuneService;
-	}
-	
-	
 
 }
