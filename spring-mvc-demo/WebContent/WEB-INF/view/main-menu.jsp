@@ -10,6 +10,8 @@
 	<hr>
 	<a href="student/showForm">Student registration Form</a>
 	<hr>
+	<a href="customer/showForm">Customer Form</a>
+	<hr>
 </body>
 
 </html>
