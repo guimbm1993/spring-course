@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-    <typeInfo handle="=spring-crm-rest-demo/\/Library\/Java\/JavaVirtualMachines\/openjdk-13.0.2.jdk\/Contents\/Home\/lib\/jrt-fs.jar`java.base=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/13\/docs\/api\/=/&lt;java.lang(RuntimeException.class[RuntimeException" modifiers="33" timestamp="1576056199000"/>
+    <typeInfo handle="=cruddemo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.luv2code.springboot.cruddemo.dao{EmployeeDAO.java[EmployeeDAO" modifiers="513" timestamp="1588702703000"/>
 </typeInfoHistroy>
